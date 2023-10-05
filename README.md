@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+< name="readme-top"></
 
 <!--
 !!! IMPORTANT !!!
@@ -9,7 +9,7 @@ You should modify this file to match your project and remove sections that don't
 
 REQUIRED SECTIONS:
 - Table of Contents
-- About the Project
+- About the Projec
   - Built With
   - Live Demo
 - Getting Started
